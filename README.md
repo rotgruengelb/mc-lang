@@ -1,5 +1,5 @@
 # Minecraft Language Metadata
-This project provides language metadata for Minecraft. 
+Language metadata for Minecraft. 
 
 Metadata is stored in a `languages.json` file and includes native and English names for each language and region.
 It uses `pycountry` to provide English names for languages and regions. The data is manually cleaned and standardized.
