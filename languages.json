@@ -323,12 +323,12 @@
       "region": "Oned Riches"
     },
     "english": {
-      "name": "Modern English minus borrowed words",
+      "name": "Pure Saxon English",
       "override_name": true,
-      "region": "United States",
+      "region": "United Kingdom",
       "override_region": true
     },
-    "note": "joke/constructed language"
+    "note": "joke/constructed language (modern english minus borrowed words)"
   },
   "enws": {
     "iso_code": "qes",
@@ -337,12 +337,12 @@
       "region": "Kingdom of England"
     },
     "english": {
-      "name": "Early Modern English",
+      "name": "Shakespearean English",
       "override_name": true,
       "region": "Kingdom of England",
       "override_region": true
     },
-    "note": "joke/constructed/historical language, like Shakespeare"
+    "note": "joke/historical language"
   },
   "eo_uy": {
     "iso_code": "epo",
@@ -943,7 +943,7 @@
       "region": "The Kingdom of Cats (Internet)",
       "override_region": true
     },
-    "note": "joke language, web language/slang"
+    "note": "joke/web language/slang"
   },
   "lt_lt": {
     "iso_code": "lit_LT",
@@ -1172,12 +1172,12 @@
       "region": "Arda"
     },
     "english": {
-      "name": "Quenya (Elvish)",
+      "name": "Elvish",
       "override_name": true,
-      "region": "Middle-earth/Arda (LOTR)",
+      "region": "Middle-Earth (Lord Of The Rings)",
       "override_region": true
     },
-    "note": "constructed language, fictional region"
+    "note": "constructed language"
   },
   "ro_ro": {
     "iso_code": "ron_RO",
@@ -1403,7 +1403,7 @@
       "region": "The Klingon Empire (Star Trek)",
       "override_region": true
     },
-    "note": "constructed language, fictional region"
+    "note": "constructed language"
   },
   "tok": {
     "iso_code": "tok",
@@ -1413,7 +1413,7 @@
     },
     "english": {
       "name": "Toki Pona",
-      "region": ""
+      "region": "International"
     },
     "note": "constructed language"
   },
