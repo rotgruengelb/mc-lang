@@ -14,5 +14,5 @@ if you change `english.name` or `english.region` add `"override_region": true`/`
 ## Dependencies
 Available in `requirements.txt`
 
-# License
+## License
 This project has multiple licenses. See [LICENSE.md](LICENSE.md) for more information.
