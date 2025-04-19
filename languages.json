@@ -1,0 +1,1584 @@
+{
+  "af_za": {
+    "iso_code": "afr_ZA",
+    "native": {
+      "name": "Afrikaans",
+      "region": "Suid-Afrika"
+    },
+    "english": {
+      "name": "Afrikaans",
+      "region": "South Africa"
+    }
+  },
+  "ar_sa": {
+    "iso_code": "ara_SA",
+    "native": {
+      "name": "العربية",
+      "region": "العالم العربي"
+    },
+    "english": {
+      "name": "Arabic",
+      "region": "Saudi Arabia"
+    }
+  },
+  "ast_es": {
+    "iso_code": "ast_ES",
+    "native": {
+      "name": "Asturianu",
+      "region": "Asturies"
+    },
+    "english": {
+      "name": "Asturian",
+      "region": "Spain"
+    }
+  },
+  "az_az": {
+    "iso_code": "aze_AZ",
+    "native": {
+      "name": "Azərbaycanca",
+      "region": "Azərbaycan"
+    },
+    "english": {
+      "name": "Azerbaijani",
+      "region": "Azerbaijan"
+    }
+  },
+  "ba_ru": {
+    "iso_code": "bak_RU-BA",
+    "native": {
+      "name": "Башҡортса",
+      "region": "Башҡортостан, Рәсәй"
+    },
+    "english": {
+      "name": "Bashkir",
+      "region": "Bashkortostan, Russia",
+      "override_region": true
+    }
+  },
+  "bar": {
+    "iso_code": "bar_DE",
+    "native": {
+      "name": "Boarisch",
+      "region": "Bayern"
+    },
+    "english": {
+      "name": "Bavarian",
+      "region": "Bavaria, Germany",
+      "override_region": true
+    }
+  },
+  "be_by": {
+    "iso_code": "bel_BY",
+    "native": {
+      "name": "Беларуская",
+      "region": "Беларусь"
+    },
+    "english": {
+      "name": "Belarusian (Cyrillic)",
+      "override_name": true,
+      "region": "Belarus"
+    }
+  },
+  "be_latn": {
+    "iso_code": "bel-Latn_BY",
+    "native": {
+      "name": "Biełaruskaja",
+      "region": "Biełaruś"
+    },
+    "english": {
+      "name": "Belarusian (Latin)",
+      "override_name": true,
+      "region": "Belarus"
+    }
+  },
+  "bg_bg": {
+    "iso_code": "bul_BG",
+    "native": {
+      "name": "Български",
+      "region": "България"
+    },
+    "english": {
+      "name": "Bulgarian",
+      "region": "Bulgaria"
+    }
+  },
+  "br_fr": {
+    "iso_code": "bre_FR",
+    "native": {
+      "name": "Brezhoneg",
+      "region": "Breizh"
+    },
+    "english": {
+      "name": "Breton",
+      "region": "Brittany, France",
+      "override_region": true
+    }
+  },
+  "brb": {
+    "iso_code": "qbr_NL",
+    "native": {
+      "name": "Braobans",
+      "region": "Braobant"
+    },
+    "english": {
+      "name": "Brabantian",
+      "region": "Brabant, Netherlands/Belgium",
+      "override_region": true
+    }
+  },
+  "bs_ba": {
+    "iso_code": "bos_BA",
+    "native": {
+      "name": "Bosanski",
+      "region": "Bosna i Hercegovina"
+    },
+    "english": {
+      "name": "Bosnian",
+      "region": "Bosnia and Herzegovina"
+    }
+  },
+  "ca_es": {
+    "iso_code": "cat_ES",
+    "native": {
+      "name": "Català",
+      "region": "Catalunya"
+    },
+    "english": {
+      "name": "Catalan",
+      "region": "Andorra/Catalonia, Spain",
+      "override_region": true
+    }
+  },
+  "cs_cz": {
+    "iso_code": "ces_CZ",
+    "native": {
+      "name": "Čeština",
+      "region": "Česko"
+    },
+    "english": {
+      "name": "Czech",
+      "region": "Czechia"
+    }
+  },
+  "cy_gb": {
+    "iso_code": "cym_GB",
+    "native": {
+      "name": "Cymraeg",
+      "region": "Cymru"
+    },
+    "english": {
+      "name": "Welsh",
+      "region": "Wales, United Kingdom",
+      "override_region": true
+    }
+  },
+  "da_dk": {
+    "iso_code": "dan_DK",
+    "native": {
+      "name": "Dansk",
+      "region": "Danmark"
+    },
+    "english": {
+      "name": "Danish",
+      "region": "Denmark"
+    }
+  },
+  "de_at": {
+    "iso_code": "bar_AT",
+    "native": {
+      "name": "Deitsch",
+      "region": "Österreich"
+    },
+    "english": {
+      "name": "Austrian German",
+      "region": "Austria"
+    }
+  },
+  "de_ch": {
+    "iso_code": "gsw_CH",
+    "native": {
+      "name": "Schwiizerdütsch",
+      "region": "Schwiiz"
+    },
+    "english": {
+      "name": "Swiss German",
+      "region": "Switzerland"
+    }
+  },
+  "de_de": {
+    "iso_code": "deu_DE",
+    "native": {
+      "name": "Deutsch",
+      "region": "Deutschland"
+    },
+    "english": {
+      "name": "German",
+      "region": "Germany"
+    }
+  },
+  "el_gr": {
+    "iso_code": "ell_GR",
+    "native": {
+      "name": "Ελληνικά",
+      "region": "Ελλάδα"
+    },
+    "english": {
+      "name": "Modern Greek (1453-)",
+      "region": "Greece"
+    }
+  },
+  "en_au": {
+    "iso_code": "eng_AU",
+    "native": {
+      "name": "English",
+      "region": "Australia"
+    },
+    "english": {
+      "name": "Australian English",
+      "override_name": true,
+      "region": "Australia"
+    }
+  },
+  "en_ca": {
+    "iso_code": "eng_CA",
+    "native": {
+      "name": "English",
+      "region": "Canada"
+    },
+    "english": {
+      "name": "Canadian English",
+      "override_name": true,
+      "region": "Canada"
+    }
+  },
+  "en_gb": {
+    "iso_code": "eng_GB",
+    "native": {
+      "name": "English",
+      "region": "United Kingdom"
+    },
+    "english": {
+      "name": "British English",
+      "override_name": true,
+      "region": "United Kingdom"
+    }
+  },
+  "en_nz": {
+    "iso_code": "eng_NZ",
+    "native": {
+      "name": "English",
+      "region": "New Zealand"
+    },
+    "english": {
+      "name": "New Zealand English",
+      "override_name": true,
+      "region": "New Zealand"
+    }
+  },
+  "en_pt": {
+    "iso_code": "qpe",
+    "native": {
+      "name": "Pirate Speak",
+      "region": "The Seven Seas"
+    },
+    "english": {
+      "name": "Pirate English",
+      "override_name": true,
+      "region": "The Seven Seas",
+      "override_region": true
+    },
+    "note": "joke language"
+  },
+  "en_ud": {
+    "iso_code": "eng-Qabs_GB",
+    "native": {
+      "name": "ɥsᴉꞁᵷuƎ",
+      "region": "uʍoᗡ ǝpᴉsd∩"
+    },
+    "english": {
+      "name": "Upside down British English",
+      "override_name": true,
+      "region": "United Kingdom",
+      "override_region": true
+    },
+    "note": "joke language"
+  },
+  "en_us": {
+    "iso_code": "en_us",
+    "native": {
+      "name": "English",
+      "region": "United States"
+    },
+    "english": {
+      "name": "American English",
+      "override_name": true,
+      "region": "United States"
+    }
+  },
+  "enp": {
+    "iso_code": "qep",
+    "native": {
+      "name": "Anglish",
+      "region": "Oned Riches"
+    },
+    "english": {
+      "name": "Modern English minus borrowed words",
+      "override_name": true,
+      "region": "United States",
+      "override_region": true
+    },
+    "note": "joke/constructed language"
+  },
+  "enws": {
+    "iso_code": "qes",
+    "native": {
+      "name": "Shakespearean English",
+      "region": "Kingdom of England"
+    },
+    "english": {
+      "name": "Early Modern English",
+      "override_name": true,
+      "region": "Kingdom of England",
+      "override_region": true
+    },
+    "note": "joke/constructed/historical language, like Shakespeare"
+  },
+  "eo_uy": {
+    "iso_code": "epo",
+    "native": {
+      "name": "Esperanto",
+      "region": "Esperantujo"
+    },
+    "english": {
+      "name": "Esperanto",
+      "override_name": true,
+      "region": "International",
+      "override_region": true
+    },
+    "note": "constructed language"
+  },
+  "es_ar": {
+    "iso_code": "spa_AR",
+    "native": {
+      "name": "Español",
+      "region": "Argentina"
+    },
+    "english": {
+      "name": "Spanish",
+      "region": "Argentina"
+    }
+  },
+  "es_cl": {
+    "iso_code": "spa_CL",
+    "native": {
+      "name": "Español",
+      "region": "Chile"
+    },
+    "english": {
+      "name": "Spanish",
+      "region": "Chile"
+    }
+  },
+  "es_ec": {
+    "iso_code": "spa_EC",
+    "native": {
+      "name": "Español",
+      "region": "Ecuador"
+    },
+    "english": {
+      "name": "Spanish",
+      "region": "Ecuador"
+    }
+  },
+  "es_es": {
+    "iso_code": "spa_ES",
+    "native": {
+      "name": "Español",
+      "region": "España"
+    },
+    "english": {
+      "name": "Spanish",
+      "region": "Spain"
+    }
+  },
+  "es_mx": {
+    "iso_code": "spa_MX",
+    "native": {
+      "name": "Español",
+      "region": "México"
+    },
+    "english": {
+      "name": "Spanish",
+      "region": "Mexico"
+    }
+  },
+  "es_uy": {
+    "iso_code": "spa_UY",
+    "native": {
+      "name": "Español",
+      "region": "Uruguay"
+    },
+    "english": {
+      "name": "Spanish",
+      "region": "Uruguay"
+    }
+  },
+  "es_ve": {
+    "iso_code": "spa_VE",
+    "native": {
+      "name": "Español",
+      "region": "Venezuela"
+    },
+    "english": {
+      "name": "Spanish",
+      "region": "Venezuela",
+      "override_region": true
+    }
+  },
+  "esan": {
+    "iso_code": "spa_ES-AN",
+    "native": {
+      "name": "Andalûh",
+      "region": "Andaluçía"
+    },
+    "english": {
+      "name": "Andalusian",
+      "override_name": true,
+      "region": "Andalusia, Spain",
+      "override_region": true
+    }
+  },
+  "et_ee": {
+    "iso_code": "est_EE",
+    "native": {
+      "name": "Eesti keel",
+      "region": "Eesti"
+    },
+    "english": {
+      "name": "Estonian",
+      "region": "Estonia"
+    }
+  },
+  "eu_es": {
+    "iso_code": "eus_ES",
+    "native": {
+      "name": "Euskara",
+      "region": "Euskal Herria"
+    },
+    "english": {
+      "name": "Basque",
+      "region": "Basque Country, Spain",
+      "override_region": true
+    }
+  },
+  "fa_ir": {
+    "iso_code": "fas_IR",
+    "native": {
+      "name": "فارسی",
+      "region": "ايران"
+    },
+    "english": {
+      "name": "Persian",
+      "region": "Iran",
+      "override_region": true
+    }
+  },
+  "fi_fi": {
+    "iso_code": "fin_FI",
+    "native": {
+      "name": "Suomi",
+      "region": "Suomi"
+    },
+    "english": {
+      "name": "Finnish",
+      "region": "Finland"
+    }
+  },
+  "fil_ph": {
+    "iso_code": "fil_PH",
+    "native": {
+      "name": "Filipino",
+      "region": "Pilipinas"
+    },
+    "english": {
+      "name": "Filipino",
+      "region": "Philippines"
+    }
+  },
+  "fo_fo": {
+    "iso_code": "fao_FO",
+    "native": {
+      "name": "Føroyskt",
+      "region": "Føroyar"
+    },
+    "english": {
+      "name": "Faroese",
+      "region": "Faroe Islands"
+    }
+  },
+  "fr_ca": {
+    "iso_code": "fra_CA",
+    "native": {
+      "name": "Français",
+      "region": "Canada"
+    },
+    "english": {
+      "name": "Canadian French",
+      "override_name": true,
+      "region": "Canada"
+    }
+  },
+  "fr_fr": {
+    "iso_code": "fra_FR",
+    "native": {
+      "name": "Français",
+      "region": "France"
+    },
+    "english": {
+      "name": "French",
+      "region": "France"
+    }
+  },
+  "fra_de": {
+    "iso_code": "vmf_DE",
+    "native": {
+      "name": "Fränggisch",
+      "region": "Franggn"
+    },
+    "english": {
+      "name": "East Franconian",
+      "override_name": true,
+      "region": "Franconia, Germany",
+      "override_region": true
+    }
+  },
+  "fur_it": {
+    "iso_code": "fur_IT",
+    "native": {
+      "name": "Furlan",
+      "region": "Friûl"
+    },
+    "english": {
+      "name": "Friulian",
+      "region": "Friuli, Italy",
+      "override_region": true
+    }
+  },
+  "fy_nl": {
+    "iso_code": "fry_NL",
+    "native": {
+      "name": "Frysk",
+      "region": "Fryslân"
+    },
+    "english": {
+      "name": "Frisian",
+      "override_name": true,
+      "region": "Friesland, Netherlands",
+      "override_region": true
+    }
+  },
+  "ga_ie": {
+    "iso_code": "gle_IE",
+    "native": {
+      "name": "Gaeilge",
+      "region": "Éire"
+    },
+    "english": {
+      "name": "Irish",
+      "region": "Ireland"
+    }
+  },
+  "gd_gb": {
+    "iso_code": "gla_GB",
+    "native": {
+      "name": "Gàidhlig",
+      "region": "Alba"
+    },
+    "english": {
+      "name": "Scottish Gaelic",
+      "region": "Scotland, United Kingdom",
+      "override_region": true
+    }
+  },
+  "gl_es": {
+    "iso_code": "glg_ES",
+    "native": {
+      "name": "Galego",
+      "region": "Galicia / Galiza"
+    },
+    "english": {
+      "name": "Galician",
+      "region": "Galicia, Spain",
+      "override_region": true
+    }
+  },
+  "haw_us": {
+    "iso_code": "haw_US",
+    "native": {
+      "name": "ʻŌlelo Hawaiʻi",
+      "region": "Hawaiʻi"
+    },
+    "english": {
+      "name": "Hawaiian",
+      "region": "Hawaii, United States",
+      "override_region": true
+    }
+  },
+  "he_il": {
+    "iso_code": "heb_IL",
+    "native": {
+      "name": "עברית",
+      "region": "ישראל"
+    },
+    "english": {
+      "name": "Hebrew",
+      "region": "Israel"
+    }
+  },
+  "hi_in": {
+    "iso_code": "hin_IN",
+    "native": {
+      "name": "हिंदी",
+      "region": "भारत"
+    },
+    "english": {
+      "name": "Hindi",
+      "region": "India"
+    }
+  },
+  "hn_no": {
+    "iso_code": "qho",
+    "native": {
+      "name": "Høgnorsk",
+      "region": "Norig"
+    },
+    "english": {
+      "name": "High Norwegian",
+      "override_name": true,
+      "region": "Norway",
+      "override_region": true
+    }
+  },
+  "hr_hr": {
+    "iso_code": "hrv_HR",
+    "native": {
+      "name": "Hrvatski",
+      "region": "Hrvatska"
+    },
+    "english": {
+      "name": "Croatian",
+      "region": "Croatia"
+    }
+  },
+  "hu_hu": {
+    "iso_code": "hun_HU",
+    "native": {
+      "name": "Magyar",
+      "region": "Magyarország"
+    },
+    "english": {
+      "name": "Hungarian",
+      "region": "Hungary"
+    }
+  },
+  "hy_am": {
+    "iso_code": "hye_AM",
+    "native": {
+      "name": "Հայերեն",
+      "region": "Հայաստան"
+    },
+    "english": {
+      "name": "Armenian",
+      "region": "Armenia"
+    }
+  },
+  "id_id": {
+    "iso_code": "ind_ID",
+    "native": {
+      "name": "Bahasa Indonesia",
+      "region": "Indonesia"
+    },
+    "english": {
+      "name": "Indonesian",
+      "region": "Indonesia"
+    }
+  },
+  "ig_ng": {
+    "iso_code": "ibo_NG",
+    "native": {
+      "name": "Igbo",
+      "region": "Naigeria"
+    },
+    "english": {
+      "name": "Igbo",
+      "region": "Nigeria"
+    }
+  },
+  "io_en": {
+    "iso_code": "ido",
+    "native": {
+      "name": "Ido",
+      "region": "Idia"
+    },
+    "english": {
+      "name": "Ido",
+      "override_name": true,
+      "region": "",
+      "override_region": true
+    },
+    "note": "constructed language"
+  },
+  "is_is": {
+    "iso_code": "isl_IS",
+    "native": {
+      "name": "Íslenska",
+      "region": "Ísland"
+    },
+    "english": {
+      "name": "Icelandic",
+      "region": "Iceland"
+    }
+  },
+  "isv": {
+    "iso_code": "qis",
+    "native": {
+      "name": "Medžuslovjansky",
+      "region": "Slovjanščina"
+    },
+    "english": {
+      "name": "Interslavic",
+      "override_name": true,
+      "region": "Slavic countries",
+      "override_region": true
+    },
+    "note": "constructed language"
+  },
+  "it_it": {
+    "iso_code": "ita_IT",
+    "native": {
+      "name": "Italiano",
+      "region": "Italia"
+    },
+    "english": {
+      "name": "Italian",
+      "region": "Italy"
+    }
+  },
+  "ja_jp": {
+    "iso_code": "jpn_JP",
+    "native": {
+      "name": "日本語",
+      "region": "日本"
+    },
+    "english": {
+      "name": "Japanese",
+      "region": "Japan"
+    }
+  },
+  "jbo_en": {
+    "iso_code": "jbo",
+    "native": {
+      "name": "la .lojban.",
+      "region": "la jbogu'e"
+    },
+    "english": {
+      "name": "Lojban",
+      "override_name": true,
+      "region": "",
+      "override_region": true
+    },
+    "note": "constructed language"
+  },
+  "ka_ge": {
+    "iso_code": "kat_GE",
+    "native": {
+      "name": "ქართული",
+      "region": "საქართველო"
+    },
+    "english": {
+      "name": "Georgian",
+      "region": "Georgia"
+    }
+  },
+  "kk_kz": {
+    "iso_code": "kaz_KZ",
+    "native": {
+      "name": "Қазақша",
+      "region": "Қазақстан"
+    },
+    "english": {
+      "name": "Kazakh",
+      "region": "Kazakhstan"
+    }
+  },
+  "kn_in": {
+    "iso_code": "kan_IN",
+    "native": {
+      "name": "ಕನ್ನಡ",
+      "region": "ಭಾರತ"
+    },
+    "english": {
+      "name": "Kannada",
+      "region": "Karnataka, India"
+    }
+  },
+  "ko_kr": {
+    "iso_code": "kor_KR",
+    "native": {
+      "name": "한국어",
+      "region": "대한민국"
+    },
+    "english": {
+      "name": "Korean",
+      "region": "Korea"
+    }
+  },
+  "ksh": {
+    "iso_code": "ksh_DE",
+    "native": {
+      "name": "Kölsch/Ripoarisch",
+      "region": "Rhingland"
+    },
+    "english": {
+      "name": "Kölsch/Ripuarian",
+      "override_name": true,
+      "region": "Rhineland, Germany",
+      "override_region": true
+    }
+  },
+  "kw_gb": {
+    "iso_code": "cor_GB",
+    "native": {
+      "name": "Kernewek",
+      "region": "Kernow"
+    },
+    "english": {
+      "name": "Cornish",
+      "region": "Cornwall, United Kingdom",
+      "override_region": true
+    }
+  },
+  "ky_kg": {
+    "iso_code": "kir_KG",
+    "native": {
+      "name": "Кыргызча",
+      "region": "Кыргызстан"
+    },
+    "english": {
+      "name": "Kirghiz",
+      "region": "Kyrgyzstan"
+    }
+  },
+  "la_la": {
+    "iso_code": "lat_VA",
+    "native": {
+      "name": "Latina",
+      "region": "Latium"
+    },
+    "english": {
+      "name": "Latin",
+      "region": "Vatican",
+      "override_region": true
+    },
+    "note": "language of Roman Empire during Antiquity"
+  },
+  "lb_lu": {
+    "iso_code": "ltz_LU",
+    "native": {
+      "name": "Lëtzebuergesch",
+      "region": "Lëtzebuerg"
+    },
+    "english": {
+      "name": "Luxembourgish",
+      "region": "Luxembourg"
+    }
+  },
+  "li_li": {
+    "iso_code": "lim_NL",
+    "native": {
+      "name": "Limburgs",
+      "region": "Limburg"
+    },
+    "english": {
+      "name": "Limburgan",
+      "region": "Netherlands"
+    }
+  },
+  "lmo": {
+    "iso_code": "lmo_IT",
+    "native": {
+      "name": "Lombard",
+      "region": "Lombardia"
+    },
+    "english": {
+      "name": "Lombard",
+      "region": "Lombardy, Italy",
+      "override_region": true
+    }
+  },
+  "lo_la": {
+    "iso_code": "lao_LA",
+    "native": {
+      "name": "ລາວ",
+      "region": "ປະເທດລາວ"
+    },
+    "english": {
+      "name": "Lao",
+      "region": "Laos",
+      "override_region": true
+    }
+  },
+  "lol_us": {
+    "iso_code": "qll",
+    "native": {
+      "name": "LOLCAT",
+      "region": "Kingdom of Cats"
+    },
+    "english": {
+      "name": "LOLCAT",
+      "override_name": true,
+      "region": "The Kingdom of Cats (Internet)",
+      "override_region": true
+    },
+    "note": "joke language, web language/slang"
+  },
+  "lt_lt": {
+    "iso_code": "lit_LT",
+    "native": {
+      "name": "Lietuvių",
+      "region": "Lietuva"
+    },
+    "english": {
+      "name": "Lithuanian",
+      "region": "Lithuania"
+    }
+  },
+  "lv_lv": {
+    "iso_code": "lav_LV",
+    "native": {
+      "name": "Latviešu",
+      "region": "Latvija"
+    },
+    "english": {
+      "name": "Latvian",
+      "region": "Latvia"
+    }
+  },
+  "lzh": {
+    "iso_code": "lzh",
+    "native": {
+      "name": "文言",
+      "region": "華夏"
+    },
+    "english": {
+      "name": "Literary Chinese",
+      "override_name": true,
+      "region": "Sinosphere",
+      "override_region": true
+    },
+    "note": "historical language"
+  },
+  "mk_mk": {
+    "iso_code": "mkd_MK",
+    "native": {
+      "name": "Македонски",
+      "region": "Северна Македонија"
+    },
+    "english": {
+      "name": "Macedonian",
+      "region": "North Macedonia"
+    }
+  },
+  "mn_mn": {
+    "iso_code": "mon_MN",
+    "native": {
+      "name": "Монгол",
+      "region": "Монгол Улс"
+    },
+    "english": {
+      "name": "Mongolian",
+      "region": "Mongolia"
+    }
+  },
+  "ms_my": {
+    "iso_code": "zlm_MY",
+    "native": {
+      "name": "Bahasa Melayu",
+      "region": "Malaysia"
+    },
+    "english": {
+      "name": "Malay",
+      "override_name": true,
+      "region": "Malaysia"
+    }
+  },
+  "mt_mt": {
+    "iso_code": "mlt_MT",
+    "native": {
+      "name": "Malti",
+      "region": "Malta"
+    },
+    "english": {
+      "name": "Maltese",
+      "region": "Malta"
+    }
+  },
+  "nah": {
+    "iso_code": "nhe_MX",
+    "native": {
+      "name": "Mēxikatlahtōlli",
+      "region": "Mēxiko"
+    },
+    "english": {
+      "name": "Nahuatl",
+      "override_name": true,
+      "region": "Mexico"
+    }
+  },
+  "nds_de": {
+    "iso_code": "nds_DE",
+    "native": {
+      "name": "Plattdüütsch",
+      "region": "Düütschland"
+    },
+    "english": {
+      "name": "Low German",
+      "region": "Germany"
+    }
+  },
+  "nl_be": {
+    "iso_code": "nld_BE",
+    "native": {
+      "name": "Vlaams",
+      "region": "België"
+    },
+    "english": {
+      "name": "Dutch",
+      "region": "Belgium"
+    }
+  },
+  "nl_nl": {
+    "iso_code": "nld_NL",
+    "native": {
+      "name": "Nederlands",
+      "region": "Nederland"
+    },
+    "english": {
+      "name": "Dutch",
+      "region": "Netherlands"
+    }
+  },
+  "nn_no": {
+    "iso_code": "nno_NO",
+    "native": {
+      "name": "Norsk nynorsk",
+      "region": "Noreg"
+    },
+    "english": {
+      "name": "Norwegian Nynorsk",
+      "region": "Norway"
+    }
+  },
+  "no_no": {
+    "iso_code": "nob_NO",
+    "native": {
+      "name": "Norsk bokmål",
+      "region": "Norge"
+    },
+    "english": {
+      "name": "Norwegian Bokmål",
+      "region": "Norway"
+    }
+  },
+  "oc_fr": {
+    "iso_code": "oci_FR",
+    "native": {
+      "name": "Occitan",
+      "region": "Occitània"
+    },
+    "english": {
+      "name": "Occitan",
+      "override_name": true,
+      "region": "Occitania",
+      "override_region": true
+    }
+  },
+  "ovd": {
+    "iso_code": "ovd_SE",
+    "native": {
+      "name": "Övdalska",
+      "region": "Swerre"
+    },
+    "english": {
+      "name": "Elfdalian",
+      "region": "Älvdalen, Sweden"
+    }
+  },
+  "pl_pl": {
+    "iso_code": "pol_PL",
+    "native": {
+      "name": "Polski",
+      "region": "Polska"
+    },
+    "english": {
+      "name": "Polish",
+      "region": "Poland"
+    }
+  },
+  "pls": {
+    "iso_code": "pls_MX",
+    "native": {
+      "name": "Ngiiwa",
+      "region": "Ndanìꞌngà"
+    },
+    "english": {
+      "name": "Popoloca",
+      "override_name": true,
+      "region": "Puebla, Mexico",
+      "override_region": true
+    }
+  },
+  "pt_br": {
+    "iso_code": "por_BR",
+    "native": {
+      "name": "Português",
+      "region": "Brasil"
+    },
+    "english": {
+      "name": "Brazilian Portuguese",
+      "override_name": true,
+      "region": "Brazil"
+    }
+  },
+  "pt_pt": {
+    "iso_code": "por_PT",
+    "native": {
+      "name": "Português",
+      "region": "Portugal"
+    },
+    "english": {
+      "name": "Portuguese",
+      "region": "Portugal"
+    }
+  },
+  "qya_aa": {
+    "iso_code": "qya",
+    "native": {
+      "name": "Quenya",
+      "region": "Arda"
+    },
+    "english": {
+      "name": "Quenya (Elvish)",
+      "override_name": true,
+      "region": "Middle-earth/Arda (LOTR)",
+      "override_region": true
+    },
+    "note": "constructed language, fictional region"
+  },
+  "ro_ro": {
+    "iso_code": "ron_RO",
+    "native": {
+      "name": "Română",
+      "region": "România"
+    },
+    "english": {
+      "name": "Romanian",
+      "region": "Romania"
+    }
+  },
+  "rpr": {
+    "iso_code": "qpr",
+    "native": {
+      "name": "Русскій дореформенный",
+      "region": "Россійская имперія"
+    },
+    "english": {
+      "name": "Russian (Pre-revolutionary)",
+      "override_name": true,
+      "region": "Russian Empire",
+      "override_region": true
+    },
+    "note": "historical language"
+  },
+  "ru_ru": {
+    "iso_code": "rus_RU",
+    "native": {
+      "name": "Русский",
+      "region": "Россия"
+    },
+    "english": {
+      "name": "Russian",
+      "region": "Russia",
+      "override_region": true
+    }
+  },
+  "ry_ua": {
+    "iso_code": "rue_UA",
+    "native": {
+      "name": "Руснацькый",
+      "region": "Пудкарпатя, Украина"
+    },
+    "english": {
+      "name": "Rusyn",
+      "region": "Vojvodina, Serbia"
+    }
+  },
+  "sah_sah": {
+    "iso_code": "sah_RU-SA",
+    "native": {
+      "name": "Сахалыы",
+      "region": "Cаха Сирэ"
+    },
+    "english": {
+      "name": "Yakut",
+      "region": "Sakha, Russia",
+      "override_region": true
+    }
+  },
+  "se_no": {
+    "iso_code": "sme_NO",
+    "native": {
+      "name": "Davvisámegiella",
+      "region": "Sápmi"
+    },
+    "english": {
+      "name": "Northern Sami",
+      "region": "Norway"
+    }
+  },
+  "sk_sk": {
+    "iso_code": "slk_SK",
+    "native": {
+      "name": "Slovenčina",
+      "region": "Slovensko"
+    },
+    "english": {
+      "name": "Slovak",
+      "region": "Slovakia"
+    }
+  },
+  "sl_si": {
+    "iso_code": "slv_SI",
+    "native": {
+      "name": "Slovenščina",
+      "region": "Slovenija"
+    },
+    "english": {
+      "name": "Slovenian",
+      "region": "Slovenia"
+    }
+  },
+  "so_so": {
+    "iso_code": "som_SO",
+    "native": {
+      "name": "Soomaali",
+      "region": "Soomaaliya"
+    },
+    "english": {
+      "name": "Somali",
+      "region": "Somalia"
+    }
+  },
+  "sq_al": {
+    "iso_code": "sqi_AL",
+    "native": {
+      "name": "Shqip",
+      "region": "Shqipëri"
+    },
+    "english": {
+      "name": "Albanian",
+      "region": "Albania"
+    }
+  },
+  "sr_cs": {
+    "iso_code": "srp-Latn_RS",
+    "native": {
+      "name": "Srpski",
+      "region": "Srbija"
+    },
+    "english": {
+      "name": "Serbian (Latin)",
+      "override_name": true,
+      "region": "Serbia"
+    },
+    "note": "using Latin script variant"
+  },
+  "sr_sp": {
+    "iso_code": "srp-Cyrl_RS",
+    "native": {
+      "name": "Српски",
+      "region": "Србија"
+    },
+    "english": {
+      "name": "Serbian (Cyrillic)",
+      "override_name": true,
+      "region": "Serbia"
+    },
+    "note": "using Cyrillic script variant"
+  },
+  "sv_se": {
+    "iso_code": "swe_SE",
+    "native": {
+      "name": "Svenska",
+      "region": "Sverige"
+    },
+    "english": {
+      "name": "Swedish",
+      "region": "Sweden"
+    }
+  },
+  "sxu": {
+    "iso_code": "sxu_DE",
+    "native": {
+      "name": "Säggs’sch",
+      "region": "Saggsn"
+    },
+    "english": {
+      "name": "Upper Saxon German",
+      "override_name": true,
+      "region": "Saxony, Germany",
+      "override_region": true
+    }
+  },
+  "szl": {
+    "iso_code": "szl_PL",
+    "native": {
+      "name": "Ślōnski",
+      "region": "Gōrny Ślōnsk"
+    },
+    "english": {
+      "name": "Silesian",
+      "region": "Upper Silesia, Poland",
+      "override_region": true
+    }
+  },
+  "ta_in": {
+    "iso_code": "tam_IN",
+    "native": {
+      "name": "தமிழ்",
+      "region": "இந்தியா"
+    },
+    "english": {
+      "name": "Tamil",
+      "region": "India/Sri Lanka",
+      "override_region": true
+    }
+  },
+  "th_th": {
+    "iso_code": "tha_TH",
+    "native": {
+      "name": "ไทย",
+      "region": "ประเทศไทย"
+    },
+    "english": {
+      "name": "Thai",
+      "region": "Thailand"
+    }
+  },
+  "tl_ph": {
+    "iso_code": "tgl_PH",
+    "native": {
+      "name": "Tagalog",
+      "region": "Pilipinas"
+    },
+    "english": {
+      "name": "Tagalog",
+      "region": "Philippines"
+    }
+  },
+  "tlh_aa": {
+    "iso_code": "tlh",
+    "native": {
+      "name": "tlhIngan Hol",
+      "region": "tlhIngan wo'"
+    },
+    "english": {
+      "name": "Klingon",
+      "override_name": true,
+      "region": "The Klingon Empire (Star Trek)",
+      "override_region": true
+    },
+    "note": "constructed language, fictional region"
+  },
+  "tok": {
+    "iso_code": "tok",
+    "native": {
+      "name": "toki pona",
+      "region": "ma pona"
+    },
+    "english": {
+      "name": "Toki Pona",
+      "region": ""
+    },
+    "note": "constructed language"
+  },
+  "tr_tr": {
+    "iso_code": "tur_TR",
+    "native": {
+      "name": "Türkçe",
+      "region": "Türkiye"
+    },
+    "english": {
+      "name": "Turkish",
+      "region": "Türkiye"
+    }
+  },
+  "tt_ru": {
+    "iso_code": "tat_RU-TA",
+    "native": {
+      "name": "Татарча",
+      "region": "Татарстан, Рәсәй"
+    },
+    "english": {
+      "name": "Tatar",
+      "region": "Tatarstan, Russia",
+      "override_region": true
+    }
+  },
+  "tzo_mx": {
+    "iso_code": "tzo_MX",
+    "native": {
+      "name": "Bats'i k'op",
+      "region": "Jobel"
+    },
+    "english": {
+      "name": "Tzotzil",
+      "region": "Chiapas, Mexico",
+      "override_region": true
+    }
+  },
+  "uk_ua": {
+    "iso_code": "ukr_UA",
+    "native": {
+      "name": "Українська",
+      "region": "Україна"
+    },
+    "english": {
+      "name": "Ukrainian",
+      "region": "Ukraine"
+    }
+  },
+  "val_es": {
+    "iso_code": "cat_ES-VC",
+    "native": {
+      "name": "Català (Valencià)",
+      "region": "País Valencià"
+    },
+    "english": {
+      "name": "Valencian",
+      "region": "Spain"
+    }
+  },
+  "vec_it": {
+    "iso_code": "vec_IT",
+    "native": {
+      "name": "Vèneto",
+      "region": "Veneto"
+    },
+    "english": {
+      "name": "Venetian",
+      "region": "Veneto, Italy",
+      "override_region": true
+    }
+  },
+  "vi_vn": {
+    "iso_code": "vie_VN",
+    "native": {
+      "name": "Tiếng Việt",
+      "region": "Việt Nam"
+    },
+    "english": {
+      "name": "Vietnamese",
+      "region": "Vietnam",
+      "override_region": true
+    }
+  },
+  "vp_vl": {
+    "iso_code": "qpv",
+    "native": {
+      "name": "Viossa",
+      "region": "Vilant"
+    },
+    "english": {
+      "name": "Viossa",
+      "override_name": true,
+      "region": "",
+      "override_region": true
+    },
+    "note": "constructed language"
+  },
+  "yi_de": {
+    "iso_code": "yid_IL",
+    "native": {
+      "name": "ייִדיש",
+      "region": "אשכנזיש יידן"
+    },
+    "english": {
+      "name": "Yiddish",
+      "region": "Israel/Russia/Germany and others",
+      "override_region": true
+    }
+  },
+  "yo_ng": {
+    "iso_code": "yor_NG",
+    "native": {
+      "name": "Yorùbá",
+      "region": "Nàìjíríà"
+    },
+    "english": {
+      "name": "Yoruba",
+      "region": "Nigeria"
+    }
+  },
+  "zh_cn": {
+    "iso_code": "zho-Hans_CN",
+    "native": {
+      "name": "简体中文",
+      "region": "中国大陆"
+    },
+    "english": {
+      "name": "Chinese Simplified",
+      "override_name": true,
+      "region": "Mainland China",
+      "override_region": true
+    }
+  },
+  "zh_hk": {
+    "iso_code": "zho-Hant_HK",
+    "native": {
+      "name": "繁體中文",
+      "region": "香港特別行政區"
+    },
+    "english": {
+      "name": "Chinese Traditional (Hong Kong)",
+      "override_name": true,
+      "region": "Hong Kong",
+      "override_region": true
+    }
+  },
+  "zh_tw": {
+    "iso_code": "zho-Hant_TW",
+    "native": {
+      "name": "繁體中文",
+      "region": "台灣"
+    },
+    "english": {
+      "name": "Chinese Traditional (Taiwan)",
+      "override_name": true,
+      "region": "Taiwan",
+      "override_region": true
+    }
+  },
+  "zlm_arab": {
+    "iso_code": "zlm-Arab_MY",
+    "native": {
+      "name": "بهاس ملايو",
+      "region": "مليسيا"
+    },
+    "english": {
+      "name": "Malay (Jawi)",
+      "override_name": true,
+      "region": "Malaysia"
+    }
+  }
+}
