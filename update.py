@@ -24,7 +24,7 @@ def get_lang_asset_root(version: str) -> str:
 def get_latest_minecraft_version() -> str:
     """Fetches the latest official Minecraft release version from Mojang's API."""
     logging.info("Fetching latest Minecraft version...")
-    return requests.get(PISTON_META_URL).json()["latest"]["release"]
+    return requests.get(PISTON_META_URL).json()["versions"][0]["id"]
 
 
 def get_available_lang_files(version: str) -> List[str]:
