@@ -191,6 +191,7 @@
     },
     "english": {
       "name": "Austrian German",
+      "override_name": true,
       "region": "Austria"
     }
   },
@@ -819,7 +820,8 @@
     },
     "english": {
       "name": "Kannada",
-      "region": "Karnataka, India"
+      "region": "Karnataka, India",
+      "override_region": true
     }
   },
   "ko_kr": {
@@ -830,7 +832,8 @@
     },
     "english": {
       "name": "Korean",
-      "region": "Korea"
+      "region": "Korea",
+      "override_region": true
     }
   },
   "ksh": {
@@ -1111,7 +1114,8 @@
     },
     "english": {
       "name": "Elfdalian",
-      "region": "Älvdalen, Sweden"
+      "region": "Älvdalen, Sweden",
+      "override_region": true
     }
   },
   "pl_pl": {
@@ -1220,7 +1224,8 @@
     },
     "english": {
       "name": "Rusyn",
-      "region": "Vojvodina, Serbia"
+      "region": "Vojvodina, Serbia",
+      "override_region": true
     }
   },
   "sah_sah": {
@@ -1466,6 +1471,7 @@
     },
     "english": {
       "name": "Valencian",
+      "override_name": true,
       "region": "Spain"
     }
   },
