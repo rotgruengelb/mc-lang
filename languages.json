@@ -1586,5 +1586,38 @@
       "override_name": true,
       "region": "Malaysia"
     }
+  },
+  "hal_ua": {
+    "iso_code": "qha_UA",
+    "native": {
+      "name": "Галицка",
+      "region": "Галичина, Вкраїна"
+    },
+    "english": {
+      "name": "?",
+      "region": "Ukraine"
+    }
+  },
+  "qcb_es": {
+    "iso_code": "qcb_ES",
+    "native": {
+      "name": "Cántabru/Montañés",
+      "region": "Cantabria"
+    },
+    "english": {
+      "name": "?",
+      "region": "Spain"
+    }
+  },
+  "qid": {
+    "iso_code": "qid_ID",
+    "native": {
+      "name": "Bhs. Indonesia edjaän lama",
+      "region": "Indonesia tempo doeloe"
+    },
+    "english": {
+      "name": "?",
+      "region": "Indonesia"
+    }
   }
 }
